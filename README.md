@@ -2,8 +2,6 @@
 
 Aplicacion local para Windows que ayuda a gestionar servidores DZ desde una interfaz web sencilla. Este repositorio publico contiene la version compilada, capturas e instrucciones de uso.
 
-El codigo fuente no se publica en este repositorio.
-
 ## Descargar
 
 Version actual:
