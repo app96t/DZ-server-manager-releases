@@ -1,0 +1,10 @@
+# Local system files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local drafts
+*.tmp
+*.log
+
+# Keep this repository for public downloads and docs only.
