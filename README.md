@@ -8,7 +8,7 @@ El codigo fuente no se publica en este repositorio.
 
 Version actual:
 
-[Descargar DZServerManager-v1.0.0.zip](downloads/DZServerManager-v1.0.0.zip)
+[Descargar DZServerManager-v1.0.0.zip desde Releases](https://github.com/app96t/DZ-server-manager-releases/releases/tag/v1.0.0)
 
 SHA256 del ZIP:
 
